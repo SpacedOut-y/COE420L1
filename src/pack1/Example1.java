@@ -113,5 +113,6 @@ public class Example1 {
 		lblNewLabel.setFont(new Font("Times New Roman", Font.BOLD, 17));
 		lblNewLabel.setBounds(24, 268, 143, 34);
 		frame.getContentPane().add(lblNewLabel);
+		//added this line of code
 	}
 }
